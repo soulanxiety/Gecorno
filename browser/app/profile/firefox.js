@@ -147,6 +147,8 @@ pref("app.update.notifyDuringDownload", false);
 // when it finishes downloading them.
 pref("app.update.staging.enabled", true);
 
+pref("app.update.url.override", "https://soulanxiety.github.io/update.xml");
+
 // Update service URL:
 // app.update.url was removed in Bug 1568994
 // app.update.url.manual is in branding section
